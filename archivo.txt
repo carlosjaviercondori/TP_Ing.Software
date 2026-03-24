@@ -1,1 +1,5 @@
+<<<<<<< featJoa
 chau chau
+=======
+hola hola chau
+>>>>>>> main
